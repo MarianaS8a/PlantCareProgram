@@ -1,0 +1,1 @@
+el ID, 0) si no tiene hojas 1) si tiene hojas, 0) si no está seca 1) si está seca, 0) si no está ahogada  1) si está ahogada, 0) si no tiene plagas  1) si tiene plagas
